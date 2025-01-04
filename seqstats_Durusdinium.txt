@@ -1,0 +1,13 @@
+
+Durusdinium.fasta
+-------------------------
+122923 sequences.
+1097 average length.
+11620 maximum length.
+201 minimum length.
+N50 = 1624
+134.8 Mb altogether (134792983 bp).
+0 ambiguous Mb. (0 bp, 0%)
+0 Mb of Ns. (0 bp, 0%)
+-------------------------
+
